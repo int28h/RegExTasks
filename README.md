@@ -22,4 +22,8 @@
 ###### Repetitions  
   
 [01](src/hackerrank/repetitions/01_matching_x_repetitions.java) Matching {x} Repetitions  
+[02](src/hackerrank/repetitions/02_matching_x_y_repetitions.java) Matching {x, y} Repetitions  
+[03](src/hackerrank/repetitions/03_matching_zero_or_more_repetitions.java) Matching Zero Or More Repetitions  
+[04](src/hackerrank/repetitions/04_matching_one_or_more_repetitions.java) Matching One Or More Repetitions  
+[05](src/hackerrank/repetitions/05_matching_ending_items.java) Matching Ending Items  
   
