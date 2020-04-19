@@ -27,3 +27,14 @@
 [04](src/hackerrank/repetitions/04_matching_one_or_more_repetitions.java) Matching One Or More Repetitions  
 [05](src/hackerrank/repetitions/05_matching_ending_items.java) Matching Ending Items  
   
+###### Grouping and Capturing  
+  
+[01](src/hackerrank/grouping_and_capturing/01_matching_word_boundaries.java) Matching Word Boundaries  
+[02](src/hackerrank/grouping_and_capturing/02_capturing_&_non_capturing_groups.java) Capturing & Non-Capturing Groups  
+[03](src/hackerrank/grouping_and_capturing/03_alternative_matching.java) Alternative Matching  
+  
+###### Backreferences  
+  
+[01](src/hackerrank/backreferences/01_matching_sam_text_again_&_again.java) Matching Same Text Again & Again  
+[02](src/hackerrank/backreferences/02_backreferences_to_failed_groups.java) Backreferences To Failed Groups  
+  
