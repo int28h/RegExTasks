@@ -37,4 +37,6 @@
   
 [01](src/hackerrank/backreferences/01_matching_sam_text_again_&_again.java) Matching Same Text Again & Again  
 [02](src/hackerrank/backreferences/02_backreferences_to_failed_groups.java) Backreferences To Failed Groups  
+[03](src/hackerrank/backreferences/03_branch_reset_groups.pl) Branch Reset Groups  
+[04](src/hackerrank/backreferences/04_forward_references.java) Forward References  
   
