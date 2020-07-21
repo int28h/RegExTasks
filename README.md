@@ -40,3 +40,10 @@
 [03](src/hackerrank/backreferences/03_branch_reset_groups.pl) Branch Reset Groups  
 [04](src/hackerrank/backreferences/04_forward_references.java) Forward References  
   
+###### Assertions  
+  
+[01](src/hackerrank/assertions/01_positive_lookahead.java) Positive Lookahead  
+[02](src/hackerrank/assertions/02_negative_lookahead.java) Negative Lookahead  
+[03](src/hackerrank/assertions/03_positive_lookbehind.java) Positive Lookbehind  
+[04](src/hackerrank/assertions/04_negative_lookbehind.java) Negative Lookbehind  
+  
