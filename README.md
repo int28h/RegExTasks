@@ -47,3 +47,7 @@
 [03](src/hackerrank/assertions/03_positive_lookbehind.java) Positive Lookbehind  
 [04](src/hackerrank/assertions/04_negative_lookbehind.java) Negative Lookbehind  
   
+###### Applications  
+  
+[01](src/hackerrank/applications/01_detect_html_links.java) Detect HTML links  
+  
